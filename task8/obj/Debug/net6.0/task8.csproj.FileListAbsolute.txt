@@ -1,0 +1,15 @@
+/Users/max/Desktop/Домашка C#/task8/obj/Debug/net6.0/task8.csproj.AssemblyReference.cache
+/Users/max/Desktop/Домашка C#/task8/obj/Debug/net6.0/task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Desktop/Домашка C#/task8/obj/Debug/net6.0/task8.AssemblyInfoInputs.cache
+/Users/max/Desktop/Домашка C#/task8/obj/Debug/net6.0/task8.AssemblyInfo.cs
+/Users/max/Desktop/Домашка C#/task8/obj/Debug/net6.0/task8.csproj.CoreCompileInputs.cache
+/Users/max/Desktop/Домашка C#/task8/bin/Debug/net6.0/task8
+/Users/max/Desktop/Домашка C#/task8/bin/Debug/net6.0/task8.deps.json
+/Users/max/Desktop/Домашка C#/task8/bin/Debug/net6.0/task8.runtimeconfig.json
+/Users/max/Desktop/Домашка C#/task8/bin/Debug/net6.0/task8.dll
+/Users/max/Desktop/Домашка C#/task8/bin/Debug/net6.0/task8.pdb
+/Users/max/Desktop/Домашка C#/task8/obj/Debug/net6.0/task8.dll
+/Users/max/Desktop/Домашка C#/task8/obj/Debug/net6.0/refint/task8.dll
+/Users/max/Desktop/Домашка C#/task8/obj/Debug/net6.0/task8.pdb
+/Users/max/Desktop/Домашка C#/task8/obj/Debug/net6.0/task8.genruntimeconfig.cache
+/Users/max/Desktop/Домашка C#/task8/obj/Debug/net6.0/ref/task8.dll
